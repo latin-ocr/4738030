@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4738030_0000.png"; bbox 0 0 3492 4453; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 757 955 2773 2191">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 757 955 2773 2191">
+     <span class='ocr_line' id='line_1_1' title="bbox 945 955 2602 1268; baseline 0.008 -18"><span class='ocrx_word' id='word_1_1' title='bbox 945 955 2602 1268; x_wconf 74' lang='lat' dir='ltr'><strong>MASTER</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 757 1415 2773 1728; baseline 0.011 -21"><span class='ocrx_word' id='word_1_2' title='bbox 757 1415 2773 1728; x_wconf 78' lang='lat' dir='ltr'>NEGATWE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 896 1879 2620 2191; baseline 0.012 -19"><span class='ocrx_word' id='word_1_3' title='bbox 896 1879 2620 2191; x_wconf 72' lang='grc' dir='ltr'>ΝυΜΒΕΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 844 2806 2637 3123">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 844 2806 2637 3123">
+     <span class='ocr_line' id='line_1_4' title="bbox 844 2806 2637 3123; baseline 0.012 -21"><span class='ocrx_word' id='word_1_4' title='bbox 844 2806 2355 3114; x_wconf 87' lang='grc' dir='ltr'>ΟΟ-273.1</span> <span class='ocrx_word' id='word_1_5' title='bbox 2435 2826 2637 3123; x_wconf 89' lang='grc' dir='ltr'>Ο</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
